@@ -19,4 +19,4 @@ const hi = (...args) => {
 
 ```
 
-{{book.city}}
+{{book.tiy.city}}
