@@ -1,3 +1,5 @@
 # Welcome to The Iron Yard Minneapolis
 
-Check out 
+Check out [chapter 1](chapter1.md).
+
+
