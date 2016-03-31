@@ -8,7 +8,7 @@
       "url": "https://github.com/jimthedev/tiy-example-book"
     }
   },
-  "variables: {
+  "variables": {
     "tiy": {
       "city": "Minneapolis"
     }
