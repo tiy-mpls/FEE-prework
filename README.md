@@ -18,3 +18,5 @@ const hi = (...args) => {
 
 
 ```
+
+{{book.city}}
