@@ -1,5 +1,3 @@
-# My Awesome Book
+# Welcome to The Iron Yard Minneapolis
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-dadas
+Check out (Chapter 1)[].
