@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "github"
+        "github",
+        "hide-published-with"
     ],
     "pluginsConfig": {
         "github": {
