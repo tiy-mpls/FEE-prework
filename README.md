@@ -21,4 +21,4 @@ const hi = (...args) => {
 
 
 
-[import](01/myfile.js)
+[import:3-8](01/myfile.js)
