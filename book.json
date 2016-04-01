@@ -1,7 +1,8 @@
 {
   "plugins": [
     "github",
-      "hide-published-with"
+    "hide-published-with",
+    "include-codeblock"
   ],
   "pluginsConfig": {
     "github": {
