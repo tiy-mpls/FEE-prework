@@ -18,3 +18,7 @@ const hi = (...args) => {
 ```
 
 {{book.tiy.city}}
+
+
+
+[import](01/myfile.js)
