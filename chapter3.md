@@ -1,4 +1,4 @@
-## The Code School Manifesto
+# The Code School Manifesto
 
 This document serves as a standard to which a code school may adhere. It broadly outlines the philosophy, values, and practices that should be shared by all schools. It reflects the authors' hope that all code schools will become allies in a singular mission to serve, teach, enrich, and support the newcomers to the craft of programming who have put themselves in our charge.
 
